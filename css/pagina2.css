@@ -1,0 +1,17 @@
+.elemento{
+    width: 350px;
+    border-radius: 70% 0% 70% 70%;
+
+}
+.elemento1{
+    border: 1px solid blue;
+    border-radius: 70% 0% 70% 70%;
+    width: 350px;
+    height: 300px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+p {
+    margin-top: 30px;
+}
